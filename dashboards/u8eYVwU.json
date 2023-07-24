@@ -1,0 +1,38 @@
+{
+  "pages": [
+    {
+      "id": "6MVw61q",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "admin",
+  "listed": true,
+  "name": "git-test\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1690185949941,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1690185949941,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {
+    "pb": true
+  },
+  "checklists": {
+    "checklists": []
+  }
+}
